@@ -72,8 +72,8 @@ a .btn-outline-success {
 footer {
   height: 65px;
   background-color: var(--green);
-  position: relative;
-  top: 90px;
+/*   position: relative;
+  top: 90px; */
 }
 
 footer p {
